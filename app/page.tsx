@@ -4,7 +4,7 @@ import { Star, Gift } from "lucide-react";
 import { motion } from "framer-motion";
 
 const ChristmasCard = () => {
-  const [activeGift, setActiveGift] = useState(null);
+  const [activeGift, setActiveGift] = useState<number | null>(null);
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-950 via-purple-900 to-blue-950 flex flex-col">
