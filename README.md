@@ -1,4 +1,4 @@
-Christmas
+## Christmas
 This project is an interactive Christmas card generator built with Next.js that features festive animations to enhance the user experience.
 
 ```bash
@@ -11,7 +11,7 @@ pnpm dev
 bun dev
 ```
 
-##Features
+## Features
 Animated Christmas Trees: Interactive trees with glowing stars and sparkling decorations.
 Interactive Gifts: Animated gifts that change styles on hover for engaging visuals.
 Sparkling Particles: Animated particle effects to enhance the festive atmosphere.
